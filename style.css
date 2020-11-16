@@ -7,6 +7,25 @@ header{
     background-color: beige;
 }
 
-#what_we_do button{
-    background-color: 0E6248;
+
+#what_we_do{
+    padding-top: 147px;
 }
+.btn{
+    background-color: #0E6248;
+}
+
+#volunteer{
+    margin-bottom: 92px;
+}
+
+
+#premiere_image, #deuxieme_image,#troisieme_image{
+    position: absolute;
+    width: 280px;
+    height: 168px;
+    left: 100px;
+    top: -30px;
+}
+
+
