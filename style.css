@@ -97,12 +97,11 @@ padding-right: 22px;
 #card_download{
     padding-bottom: 120px;
 }
-<<<<<<< HEAD
 
 #newsletter{
     height: 200px;
     background-color: #0E6248;
-=======
+}
 #gallery{
     height: 382px;
     /* position: relative; */
@@ -235,5 +234,4 @@ border-radius: 8px;
     top: 1951px;    
     background: url(img/ciel.png);
     border-radius: 8px;
->>>>>>> b41c3cbd43de233174f94d02f0e5eea99472acc1
 }
