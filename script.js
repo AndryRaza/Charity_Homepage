@@ -21,12 +21,12 @@ window.onload=function(){
           var id = setInterval(frame, 150);
           function frame() {
             if (i >= 10000) {
-              elem.innerHTML = i;
+              elem.innerHTML = i+ "<br> Donations";
               anim_donate = true;
               clearInterval(id);
             } else {
-              i = i + 300;
-              elem.innerHTML = i;
+              i = i + 300 ;
+              elem.innerHTML = i + "<br> Donations";
             }
           }
         }
@@ -39,12 +39,12 @@ window.onload=function(){
           var id = setInterval(frame, 1000);
           function frame() {
             if (i == 6) {
-              elem.innerHTML = i;
+              elem.innerHTML = i+ "<br> Familles";
               anim_families = true;
               clearInterval(id);
             } else {
-              i = i + 1;
-              elem.innerHTML = i;
+              i = i + 1 ;
+              elem.innerHTML = i + "<br> Familles";
             }
           }
         }
@@ -57,12 +57,12 @@ window.onload=function(){
           var id = setInterval(frame, 1000);
           function frame() {
             if (i == 6) {
-              elem.innerHTML = i;
+              elem.innerHTML = i+ "<br> projets";
               anim_projects = true;
               clearInterval(id);
             } else {
               i = i + 1;
-              elem.innerHTML = i;
+              elem.innerHTML = i + "<br> projets";
             }
           }
         }
@@ -75,12 +75,12 @@ window.onload=function(){
           var id = setInterval(frame, 1000);
           function frame() {
             if (i == 6) {
-              elem.innerHTML = i;
+              elem.innerHTML = i +  "<br> partenaires";
               anim_partners = true;
               clearInterval(id);
             } else {
-              i = i + 1;
-              elem.innerHTML = i;
+              i = i +1 ;
+              elem.innerHTML = i +  "<br> partenaires";
             }
           }
         }

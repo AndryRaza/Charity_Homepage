@@ -54,12 +54,12 @@ h5{
     font-size: 18px;
 }
 #stats{
-    margin-top: 120px;
+    margin-top: 50px;
     margin-bottom: 70px;
 
     padding-right: 24px;
     padding-left:24px;
-    padding-top: 67px;
+    padding-top: 30px;
 
     background: #FBF8F6;
     border-radius: 8px;
@@ -77,6 +77,7 @@ h5{
 width: 380px;
 border-radius: 4px;
 
+
 background: #FFFFFF;
 border: 1px solid #FBF8F6;
 box-sizing: border-box;
@@ -87,6 +88,10 @@ padding-top: 30px;
 padding-bottom: 30px;
 padding-left:26px;
 padding-right: 22px;
+}
+
+#section_donate{
+    margin-top: 110px;
 }
 
 #InputAmount{
@@ -101,6 +106,8 @@ padding-right: 22px;
 #newsletter{
     height: 200px;
     background-color: #0E6248;
+    padding-top: 66px;
+    padding-bottom: 45px;
 }
 #email{
    
