@@ -10,3 +10,14 @@ header{
 #what_we_do button{
     background-color: 0E6248;
 }
+.jumbotron{
+    width: 520px;
+    height: 80px;
+    margin: auto;
+    margin-top: 222px;
+    background-color: transparent;
+}
+#quickinfo{
+    height: 120px;
+    background-color: thistle;
+}
