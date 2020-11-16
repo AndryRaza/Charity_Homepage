@@ -1,18 +1,25 @@
 header{
     height: 680px;
     background-color:beige;
+    background-image: url(img/1_9VPqUcciv6Ao5mOh2mNvsw.jpeg);
+    background-size: cover;
+}
+#boutonnav{
+    width:96px;
+    height: 32px;
 }
 #sectionhero{
     height: 680px;
-    background-color: beige;
+    /* background-color: beige; */
 }
 .jumbotron{
-    margin-top: 222px;
+    margin-top: 125px;
     background-color: transparent;
+    margin-bottom: 258px;
 }
 #quickinfo{
     height: 120px;
-    background-color: violet;
+    background-color: #FBF8F6;
 }
 .logo{
     width: 108px;
