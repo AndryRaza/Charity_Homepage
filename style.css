@@ -10,15 +10,20 @@ header{
     margin-top: 222px;
     background-color: transparent;
 }
-
+#quickinfo{
+    height: 120px;
+    background-color: violet;
+}
+.logo{
+    width: 108px;
+    height: 49px;
+}
 #what_we_do{
     padding-top: 147px;
 }
 .btn{
     background-color: #0E6248;
-    
 }
-
 #volunteer{
     margin-bottom: 92px;
 }
