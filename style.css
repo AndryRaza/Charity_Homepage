@@ -92,3 +92,136 @@ padding-right: 22px;
 #card_download{
     padding-bottom: 120px;
 }
+#gallery{
+    height: 382px;
+    /* position: relative; */
+    
+}
+#surfeur{
+    position: absolute;
+    width: 240px;
+    height: 320px;
+    left: 320px;
+    top: 1829px;
+    background: url(img/surfeur.png);
+    border-radius: 8px;
+}
+#plage{
+    position: absolute;
+width: 120px;
+height: 120px;
+left: 164px;
+top: 1819px;
+
+background: url(img/plage.png);
+border-radius: 8px;
+}
+#nuage{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 84px;
+    top: 1985px;
+    
+    background: url(img/nuage.png);
+    border-radius: 8px;
+}
+#portraithomme{
+    position: absolute;
+    width: 336px;
+    height: 144px;
+    left: -208px;
+    top: 1805px;
+    
+    background: url(img/portrait\ homme.png);
+    border-radius: 8px;
+}
+#foret{
+    position: absolute;
+width: 160px;
+height: 160px;
+left: -112px;
+top: 1975px;
+
+background: url(img/foret.png);
+border-radius: 8px;
+}
+#yeuxfemme{
+    position: absolute;
+    width: 336px;
+    height: 144px;
+    left: 606px;
+    top: 1805px;
+    
+    background: url(img/yeuxfemme.png);
+    border-radius: 8px;
+}
+#lecture{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 593px;
+    top: 1975px;   
+    background: url(img/lecture.png);
+    border-radius: 8px;
+}
+#fruit{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 782px;
+    top: 1995px;
+    
+    background: url(img/fruit.png);
+    border-radius: 8px;
+}
+#canyon{
+    position: absolute;
+    width: 160px;
+    height: 306px;
+    left: 978px;
+    top: 1851px;
+    
+    background: url(img/canyon.png);
+    border-radius: 8px;
+}
+#mer{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1174px;
+    top: 1815px;
+    
+    background: url(img/mer.png);
+    border-radius: 8px;
+}
+#citron{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 1174px;
+    top: 1981px;
+    
+    background: url(img/citron.png);
+    border-radius: 8px;
+
+}
+#vague{
+    position: absolute;
+    width: 200px;
+    height: 120px;
+    left: 1330px;
+    top: 1805px;
+    
+    background: url(img/vague.png);
+    border-radius: 8px;
+}
+#ciel{
+    position: absolute;
+    width: 160px;
+    height: 216px;
+    left: 1370px;
+    top: 1951px;    
+    background: url(img/ciel.png);
+    border-radius: 8px;
+}
