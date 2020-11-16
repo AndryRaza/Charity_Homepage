@@ -184,6 +184,17 @@
                           <label for="InputEmail">Email: </label>
                           <input type="email" class="form-control" id="InputEmail">
                         </div>
+                        <div class="form-group">
+                                
+                            <label for="InputAmout">Amout:</label>
+                            <span class="d-flex">
+                            <select id="inputAmout" class="form-control w-25">
+                            <option selected><p>PHP</p></option>
+                             <option>...</option>
+                             </select>
+                            <input type="text" class="form-control w-75" id="InputAmout" aria-describedby="emailHelp">
+                        </span>
+                          </div>
                         <button type="submit" class="btn btn-primary">
                             <svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3638 0C23.8433 0 30.7276 6.8843 30.7276 15.3638C30.7276 23.8433 23.8433 30.7276 15.3638 30.7276C6.8843 30.7276 0 23.8433 0 15.3638C0 6.8843 6.8843 0 15.3638 0Z" fill="#107052"/>
@@ -248,8 +259,18 @@
     <!------------Newsletter----------------------->
 
     <section class="container-fluid">
-        <div class="container">
+        <div class="container d-flex flex-column justify-content-center align-items-center" id="newsletter">
+            <p class="text-white">
+                Donec turpis sapien, dignissim in augue ac, venenatis interdum justo. 
+            </p>
 
+            <label class="sr-only" for="inlineFormInputGroup">Email</label>
+            <div class="input-group w-100">
+                <input type="email" class="form-control" id="inlineFormInputGroup" placeholder="Email" style="width: 180px;">
+                <div class="input-group-prepend">
+                    <div class="input-group-text">Subscribe</div>
+                </div>
+            </div>
         </div>
 
     </section>
