@@ -235,3 +235,11 @@ padding-right: 22px;
     background: url(img/ciel.png);
     border-radius: 8px;
 }
+footer{
+    height: 200px;
+    background-color: #272727;
+    margin-top: 104px;
+}
+#footercontainer{
+    width: 1140px;
+}
